@@ -27,7 +27,7 @@
 - An application has less dynamic data
 - Read preference of the site is more than write
 - The focus is not on rich sites and has few users
-- 
+
 ## What Are The Differences Between Client-Side And Server-Side Rendering?
 
 The main difference between these two rendering approaches is in the algorithms of their operation. CSR shows an empty page before loading, while SSR displays a fully-rendered HTML page on the first load.
